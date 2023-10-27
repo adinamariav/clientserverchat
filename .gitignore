@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Generated build directory
+build-Server-Desktop-Debug/
+
